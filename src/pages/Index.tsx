@@ -52,7 +52,7 @@ export default function Index() {
             Каталог
           </p>
           <h1 className="font-display text-5xl md:text-7xl font-light text-foreground leading-none">
-            Кино
+            Мои любимые фильмы
           </h1>
         </div>
         <div className="flex items-center gap-2 text-muted-foreground pb-2">
@@ -183,7 +183,7 @@ export default function Index() {
 
       {/* Footer */}
       <footer className="px-8 md:px-16 py-8 border-t border-border mt-8 flex items-center justify-between">
-        <p className="font-display text-lg font-light italic text-muted-foreground">Кино</p>
+        <p className="font-display text-lg font-light italic text-muted-foreground">Мои любимые фильмы</p>
         <p className="text-xs font-sans text-muted-foreground tracking-widest">© 2024</p>
       </footer>
     </div>
